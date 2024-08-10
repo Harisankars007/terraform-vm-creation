@@ -6,10 +6,7 @@ This repository contains Terraform configuration files to create and manage a Vi
 - [Prerequisites](#prerequisites)
 - [Setup](#setup)
 - [Usage](#usage)
-- [Files and Directories](#files-and-directories)
-- [Troubleshooting](#troubleshooting)
-- [Cleaning Up](#cleaning-up)
-- [Additional Resources](#additional-resources)
+- [Destroying the Resource](#usage)
 
 ## Prerequisites
 
@@ -92,3 +89,11 @@ To destroy all the resources created by this Terraform configuration:
 
 ```bash
 terraform destroy
+
+***** commands to be noted these are the main commands in command line ****
+
+#terraform init
+#terraform validate
+#terraform plan
+#terraform apply
+***************
