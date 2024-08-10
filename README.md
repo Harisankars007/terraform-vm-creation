@@ -6,10 +6,7 @@ This repository contains Terraform configuration files to create and manage a Vi
 - [Prerequisites](#prerequisites)
 - [Setup](#setup)
 - [Usage](#usage)
-- [Files and Directories](#files-and-directories)
-- [Troubleshooting](#troubleshooting)
-- [Cleaning Up](#cleaning-up)
-- [Additional Resources](#additional-resources)
+- [Destroying the Resource](#usage)](#files-and-directories)
 
 ## Prerequisites
 
