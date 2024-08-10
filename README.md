@@ -89,3 +89,10 @@ To destroy all the resources created by this Terraform configuration:
 
 ```bash
 terraform destroy
+***** commands to be noted ****
+
+#terraform init
+#terraform validate
+#terraform plan
+#terraform apply
+***************
